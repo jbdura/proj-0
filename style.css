@@ -52,6 +52,7 @@ input[type=submit]:hover {
 
 body {
   background-image: url('./bg.jpg');
+  backdrop-filter: blur(75px);
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
@@ -60,3 +61,4 @@ body {
 span {
   color: #FFFFFF;
 }
+
